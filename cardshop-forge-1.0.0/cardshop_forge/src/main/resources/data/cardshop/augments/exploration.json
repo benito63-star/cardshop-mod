@@ -1,0 +1,62 @@
+[
+  {
+    "id": "explor_jump_1",
+    "name": "Ressorts aux Pieds",
+    "category": "EXPLORATION",
+    "tier": 1,
+    "cost": 100,
+    "description": "Saute plus haut pour explorer",
+    "effect": "minecraft:jump_boost",
+    "amplifier": 0
+  },
+  {
+    "id": "explor_jump_2",
+    "name": "Bottes du Sauteur",
+    "category": "EXPLORATION",
+    "tier": 2,
+    "cost": 280,
+    "description": "Des sauts impressionnants",
+    "effect": "minecraft:jump_boost",
+    "amplifier": 2
+  },
+  {
+    "id": "explor_nightvision",
+    "name": "Œil de Lynx",
+    "category": "EXPLORATION",
+    "tier": 2,
+    "cost": 320,
+    "description": "Vois parfaitement dans le noir",
+    "effect": "minecraft:night_vision",
+    "amplifier": 0
+  },
+  {
+    "id": "explor_water",
+    "name": "Branchies Secrètes",
+    "category": "EXPLORATION",
+    "tier": 2,
+    "cost": 350,
+    "description": "Respire sous l'eau sans limite",
+    "effect": "minecraft:water_breathing",
+    "amplifier": 0
+  },
+  {
+    "id": "explor_slow_fall",
+    "name": "Cape Plume",
+    "category": "EXPLORATION",
+    "tier": 1,
+    "cost": 160,
+    "description": "Tombe doucement comme une feuille",
+    "effect": "minecraft:slow_falling",
+    "amplifier": 0
+  },
+  {
+    "id": "explor_dolphin",
+    "name": "Grâce du Dauphin",
+    "category": "EXPLORATION",
+    "tier": 2,
+    "cost": 300,
+    "description": "Nage vite et sans effort",
+    "effect": "minecraft:dolphins_grace",
+    "amplifier": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "special_luck_max",
+    "name": "Bénédiction Ancienne",
+    "category": "SPECIAL",
+    "tier": 3,
+    "cost": 2000,
+    "description": "Chance maximale sur absolument tout",
+    "effect": "minecraft:luck",
+    "amplifier": 3,
+    "bonus": 0.10,
+    "bonus_type": "drop_luck"
+  },
+  {
+    "id": "special_combo_fighter",
+    "name": "Âme du Guerrier",
+    "category": "SPECIAL",
+    "tier": 3,
+    "cost": 1800,
+    "description": "Force, vitesse et résistance réunies",
+    "effect": "minecraft:strength",
+    "amplifier": 1
+  },
+  {
+    "id": "special_merchant_king",
+    "name": "Couronne du Marchand",
+    "category": "SPECIAL",
+    "tier": 3,
+    "cost": 2500,
+    "description": "Le meilleur bonus de vente possible",
+    "bonus": 0.30,
+    "bonus_type": "sell_bonus"
+  },
+  {
+    "id": "special_explorer_soul",
+    "name": "Esprit Vagabond",
+    "category": "SPECIAL",
+    "tier": 3,
+    "cost": 1600,
+    "description": "Vision de nuit et saut amélioré combinés",
+    "effect": "minecraft:night_vision",
+    "amplifier": 0
+  },
+  {
+    "id": "special_legendary_seeker",
+    "name": "Détecteur de Légendaires",
+    "category": "SPECIAL",
+    "tier": 3,
+    "cost": 3000,
+    "description": "Le plus grand bonus de chance légendaire",
+    "bonus": 0.08,
+    "bonus_type": "legendary_chance"
+  }
+]

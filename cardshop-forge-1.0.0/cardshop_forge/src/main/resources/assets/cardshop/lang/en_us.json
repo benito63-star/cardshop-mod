@@ -1,0 +1,18 @@
+{
+  "itemGroup.cardshop.tab": "Card Shop",
+  "item.cardshop.card": "Carte",
+  "item.cardshop.booster_pack": "Booster Pack",
+  "item.cardshop.augment": "Augment",
+  "item.cardshop.enchanted_paper": "Papier Enchante",
+  "item.cardshop.rare_ink": "Encre Rare",
+  "item.cardshop.gold_foil": "Feuille d Or",
+  "item.cardshop.mana_crystal": "Cristal de Mana",
+  "item.cardshop.void_essence": "Essence du Vide",
+  "block.cardshop.shop_stand": "Shop Stand",
+  "block.cardshop.furniture_counter": "Comptoir",
+  "block.cardshop.furniture_shelf": "Etagere",
+  "block.cardshop.furniture_register": "Caisse",
+  "block.cardshop.furniture_display": "Vitrine",
+  "block.cardshop.furniture_sign": "Panneau",
+  "block.cardshop.furniture_fountain": "Fontaine"
+}

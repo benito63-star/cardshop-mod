@@ -1,0 +1,62 @@
+[
+  {
+    "id": "trade_sell_1",
+    "name": "Langue d'Or",
+    "category": "TRADE",
+    "tier": 1,
+    "cost": 200,
+    "description": "Tes clients paient un peu mieux",
+    "bonus": 0.05,
+    "bonus_type": "sell_bonus"
+  },
+  {
+    "id": "trade_sell_2",
+    "name": "Charisme du Marchand",
+    "category": "TRADE",
+    "tier": 2,
+    "cost": 500,
+    "description": "Tes prix sont rarement discutés",
+    "bonus": 0.12,
+    "bonus_type": "sell_bonus"
+  },
+  {
+    "id": "trade_sell_3",
+    "name": "Prestige du Négociant",
+    "category": "TRADE",
+    "tier": 3,
+    "cost": 1200,
+    "description": "Les clients paient le prix fort sans hésiter",
+    "bonus": 0.25,
+    "bonus_type": "sell_bonus"
+  },
+  {
+    "id": "trade_legendary_1",
+    "name": "Flair du Collectionneur",
+    "category": "TRADE",
+    "tier": 2,
+    "cost": 600,
+    "description": "Un peu plus de chances d'obtenir du légendaire",
+    "bonus": 0.02,
+    "bonus_type": "legendary_chance"
+  },
+  {
+    "id": "trade_legendary_2",
+    "name": "Instinct Légendaire",
+    "category": "TRADE",
+    "tier": 3,
+    "cost": 1500,
+    "description": "Les légendaires te trouvent plus facilement",
+    "bonus": 0.05,
+    "bonus_type": "legendary_chance"
+  },
+  {
+    "id": "trade_visitor_magnet",
+    "name": "Enseigne Magnétique",
+    "category": "TRADE",
+    "tier": 2,
+    "cost": 450,
+    "description": "Attire plus de clients vers ta boutique",
+    "bonus": 0.20,
+    "bonus_type": "visitor_rate"
+  }
+]
