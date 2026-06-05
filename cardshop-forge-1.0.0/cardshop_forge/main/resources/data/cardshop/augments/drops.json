@@ -1,0 +1,82 @@
+[
+  {
+    "id": "drops_luck_1",
+    "name": "Patte de Lapin",
+    "category": "DROPS",
+    "tier": 1,
+    "cost": 150,
+    "description": "Un peu de chance en plus sur les drops",
+    "bonus": 0.05,
+    "bonus_type": "drop_luck"
+  },
+  {
+    "id": "drops_luck_2",
+    "name": "Trèfle à 4 Feuilles",
+    "category": "DROPS",
+    "tier": 2,
+    "cost": 350,
+    "description": "Les drops rares tombent plus souvent",
+    "bonus": 0.12,
+    "bonus_type": "drop_luck"
+  },
+  {
+    "id": "drops_luck_3",
+    "name": "Étoile Porte-Bonheur",
+    "category": "DROPS",
+    "tier": 3,
+    "cost": 800,
+    "description": "La chance te sourit vraiment",
+    "bonus": 0.25,
+    "bonus_type": "drop_luck"
+  },
+  {
+    "id": "drops_double_1",
+    "name": "Mains Généreuses",
+    "category": "DROPS",
+    "tier": 2,
+    "cost": 400,
+    "description": "Parfois, tu ramasses deux fois plus",
+    "bonus": 0.10,
+    "bonus_type": "double_drop"
+  },
+  {
+    "id": "drops_double_2",
+    "name": "Looting Naturel",
+    "category": "DROPS",
+    "tier": 3,
+    "cost": 900,
+    "description": "Double drop fréquent sur tous les mobs",
+    "bonus": 0.20,
+    "bonus_type": "double_drop"
+  },
+  {
+    "id": "drops_xp_1",
+    "name": "Cristal d'Expérience",
+    "category": "DROPS",
+    "tier": 1,
+    "cost": 180,
+    "description": "Gagne un peu plus d'XP partout",
+    "bonus": 0.10,
+    "bonus_type": "xp_bonus"
+  },
+  {
+    "id": "drops_xp_2",
+    "name": "Orbe d'Apprentissage",
+    "category": "DROPS",
+    "tier": 2,
+    "cost": 420,
+    "description": "Progression rapide en niveaux",
+    "bonus": 0.25,
+    "bonus_type": "xp_bonus"
+  },
+  {
+    "id": "drops_minecraft_luck",
+    "name": "Amulette de Chance",
+    "category": "DROPS",
+    "tier": 2,
+    "cost": 320,
+    "description": "L'effet Luck de Minecraft en permanent",
+    "effect": "minecraft:luck",
+    "amplifier": 1
+  }
+]

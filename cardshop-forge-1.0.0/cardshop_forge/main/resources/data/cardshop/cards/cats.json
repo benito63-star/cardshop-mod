@@ -1,0 +1,22 @@
+[
+  {"id":"cat_tabby",               "name":"Chat Tabby",           "rarity":"rare",      "description":"Rayures orangées classiques"},
+  {"id":"cat_tuxedo",              "name":"Chat Tuxedo",          "rarity":"rare",      "description":"Toujours habillé pour la soirée"},
+  {"id":"cat_calico",              "name":"Chat Calico",          "rarity":"rare",      "description":"Tricolore porte-bonheur"},
+  {"id":"cat_ginger",              "name":"Chat Roux",            "rarity":"rare",      "description":"Énergique et joueur"},
+  {"id":"cat_british",             "name":"British Shorthair",    "rarity":"rare",      "description":"Digne et tranquille"},
+  {"id":"cat_ragdoll",             "name":"Ragdoll",              "rarity":"rare",      "description":"S'abandonne dans les bras"},
+  {"id":"cat_maine_coon",          "name":"Maine Coon",           "rarity":"rare",      "description":"Grand et majestueux"},
+  {"id":"cat_siamese",             "name":"Chat Siamois",         "rarity":"epic",      "description":"Regard intense et bleu"},
+  {"id":"cat_black",               "name":"Chat Noir",            "rarity":"epic",      "description":"Mystérieux et élégant"},
+  {"id":"cat_persian",             "name":"Chat Persan",          "rarity":"epic",      "description":"Doux, paresseux, parfait"},
+  {"id":"cat_bengal",              "name":"Chat Bengal",          "rarity":"epic",      "description":"Tacheté comme un léopard"},
+  {"id":"cat_scottish_fold",       "name":"Scottish Fold",        "rarity":"epic",      "description":"Oreilles repliées, cœur ouvert"},
+  {"id":"cat_norwegian",           "name":"Chat des Forêts",      "rarity":"epic",      "description":"Né pour les grands froids"},
+  {"id":"cat_sphynx",              "name":"Chat Sphynx",          "rarity":"epic",      "description":"Chauve et chaleureux"},
+  {"id":"cat_tortoiseshell",       "name":"Chat Écaille",         "rarity":"epic",      "description":"Mosaïque de roux et noir"},
+  {"id":"cat_kitten_golden",       "name":"Chaton Doré",          "rarity":"legendary", "description":"Trop mignon pour ce monde"},
+  {"id":"cat_space",               "name":"Chat Cosmique",        "rarity":"legendary", "description":"Venu des étoiles"},
+  {"id":"cat_ghost",               "name":"Chat Fantôme",         "rarity":"legendary", "description":"Invisible sauf quand il veut"},
+  {"id":"cat_rainbow",             "name":"Chat Arc-en-Ciel",     "rarity":"legendary", "description":"Laisse une trainée colorée"},
+  {"id":"cat_ancient",             "name":"Chat Antique",         "rarity":"legendary", "description":"Vénéré par les Égyptiens"}
+]

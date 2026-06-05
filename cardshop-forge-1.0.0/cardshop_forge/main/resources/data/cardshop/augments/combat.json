@@ -1,0 +1,102 @@
+[
+  {
+    "id": "combat_speed_1",
+    "name": "Semelles Légères",
+    "category": "COMBAT",
+    "tier": 1,
+    "cost": 80,
+    "description": "Un peu plus vif sur tes pieds",
+    "effect": "minecraft:speed",
+    "amplifier": 0
+  },
+  {
+    "id": "combat_speed_2",
+    "name": "Bottes du Vent",
+    "category": "COMBAT",
+    "tier": 2,
+    "cost": 200,
+    "description": "Rapide comme une brise",
+    "effect": "minecraft:speed",
+    "amplifier": 1
+  },
+  {
+    "id": "combat_speed_3",
+    "name": "Sandales du Éclair",
+    "category": "COMBAT",
+    "tier": 3,
+    "cost": 500,
+    "description": "Aussi rapide que la foudre",
+    "effect": "minecraft:speed",
+    "amplifier": 2
+  },
+  {
+    "id": "combat_resistance_1",
+    "name": "Peau Épaisse",
+    "category": "COMBAT",
+    "tier": 1,
+    "cost": 100,
+    "description": "Un peu plus dur à blesser",
+    "effect": "minecraft:resistance",
+    "amplifier": 0
+  },
+  {
+    "id": "combat_resistance_2",
+    "name": "Armure Naturelle",
+    "category": "COMBAT",
+    "tier": 2,
+    "cost": 280,
+    "description": "Résistance notable aux impacts",
+    "effect": "minecraft:resistance",
+    "amplifier": 1
+  },
+  {
+    "id": "combat_strength_1",
+    "name": "Muscles Tendus",
+    "category": "COMBAT",
+    "tier": 1,
+    "cost": 90,
+    "description": "Frappe un peu plus fort",
+    "effect": "minecraft:strength",
+    "amplifier": 0
+  },
+  {
+    "id": "combat_strength_2",
+    "name": "Poings d'Acier",
+    "category": "COMBAT",
+    "tier": 2,
+    "cost": 250,
+    "description": "Des dégâts significatifs en plus",
+    "effect": "minecraft:strength",
+    "amplifier": 1
+  },
+  {
+    "id": "combat_regen_1",
+    "name": "Souffle du Guérisseur",
+    "category": "COMBAT",
+    "tier": 2,
+    "cost": 220,
+    "description": "Récupère lentement mais sûrement",
+    "effect": "minecraft:regeneration",
+    "amplifier": 0
+  },
+  {
+    "id": "combat_haste_1",
+    "name": "Mains Agiles",
+    "category": "COMBAT",
+    "tier": 1,
+    "cost": 120,
+    "description": "Mine et attaque plus vite",
+    "effect": "minecraft:haste",
+    "amplifier": 0
+  },
+  {
+    "id": "combat_haste_2",
+    "name": "Frénésie du Mineur",
+    "category": "COMBAT",
+    "tier": 2,
+    "cost": 300,
+    "description": "Vitesse d'attaque et de minage impressionnante",
+    "effect": "minecraft:haste",
+    "amplifier": 1
+  }
+]

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[49,)"
+license="MIT"
+
+[[mods]]
+modId="cardshop"
+version="1.0.0"
+displayName="Card Shop"
+description='''
+Boutique de cartes multijoueur.
+Collecte, vends et developpe ta boutique !
+'''
+
+[[dependencies.cardshop]]
+    modId="forge"
+    mandatory=true
+    versionRange="[49,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cardshop]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.4,1.21)"
+    ordering="NONE"
+    side="BOTH"

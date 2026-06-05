@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["IPI","PAP","IPI"],"key":{"I":{"item":"minecraft:iron_ingot"},"P":{"item":"cardshop:enchanted_paper"},"A":{"item":"cardshop:rare_ink"}},"result":{"item":"cardshop:augment","count":1,"nbt":"{cardshop_augment:{augment_id:\"combat_resistance_1\"}}"}}

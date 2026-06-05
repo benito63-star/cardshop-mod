@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["DFD","FAF","DFD"],"key":{"D":{"item":"minecraft:diamond"},"F":{"item":"cardshop:gold_foil"},"A":{"item":"cardshop:mana_crystal"}},"result":{"item":"cardshop:augment","count":1,"nbt":"{cardshop_augment:{augment_id:\"drops_double_1\"}}"}}

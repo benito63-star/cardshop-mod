@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["VMV","MNM","VMV"],"key":{"V":{"item":"cardshop:void_essence"},"M":{"item":"cardshop:mana_crystal"},"N":{"item":"minecraft:nether_star"}},"result":{"item":"cardshop:augment","count":1,"nbt":"{cardshop_augment:{augment_id:\"special_merchant_king\"}}"}}

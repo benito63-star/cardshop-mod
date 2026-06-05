@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["EPE","PAP","EPE"],"key":{"E":{"item":"minecraft:ender_eye"},"P":{"item":"cardshop:enchanted_paper"},"A":{"item":"cardshop:mana_crystal"}},"result":{"item":"cardshop:augment","count":1,"nbt":"{cardshop_augment:{augment_id:\"explor_nightvision\"}}"}}
